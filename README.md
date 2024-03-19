@@ -1,6 +1,7 @@
 <!-- Back to Top Link-->
 <a name="readme-top"></a>
 
+Note: the original repository is [here](https://github.com/mrsuiii/Tubes-Alstrukdat), but it may still be private
 
 <br />
 <div align="center">
