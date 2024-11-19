@@ -5,11 +5,11 @@ Note: the original repository is [here](https://github.com/mrsuiii/Tubes-Alstruk
 
 <br />
 <div align="center">
-  <h1 align="center">Tugas Besar IF2110 Algoritma & Struktur Data ITB</h1>
+  <h1 align="center">BurBir (Burung Biru)</h1>
 
   <p align="center">
-    <h3> BurBir (Burung Biru)</h3>
-    <h4> Program simulasi Social Media berbasis CLI (command-line interface) dalam bahasa C </h4>
+    <h3>Tugas Besar IF2110 Algoritma & Struktur Data ITB</h3>
+    <h4>Socical Media replication based on CLI in C</h4>
     <br />
     <a href="https://github.com/mrsuiii/Tubes-Alstrukdat/issues">Report Bug</a>
     ·
